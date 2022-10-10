@@ -22,3 +22,6 @@
 [submodule "packages/mongo"]
 	path = packages/mongo
 	url = https://github.com/mongodb/mongo.git
+[submodule "packages/wasm-focus.ioc"]
+	path = packages/wasm-focus.ioc
+	url = https://github.com/specfocus/wasm-focus.ioc.git
