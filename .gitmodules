@@ -1,0 +1,24 @@
+[submodule "packages/wasm-focus.quiz"]
+	path = packages/wasm-focus.quiz
+	url = https://github.com/specfocus/wasm-focus.quiz.git
+[submodule "packages/wasm-focus.zlib"]
+	path = packages/wasm-focus.zlib
+	url = https://github.com/specfocus/wasm-focus.zlib.git
+[submodule "packages/pack-focus.zlib"]
+	path = packages/pack-focus.zlib
+	url = https://github.com/specfocus/pack-focus.zlib.git
+[submodule "packages/quiz-focus"]
+	path = packages/quiz-focus
+	url = https://github.com/specfocus/quiz-focus.git
+[submodule "packages/quiz-focus.mingo"]
+	path = packages/quiz-focus.mingo
+	url = https://github.com/specfocus/quiz-focus.mingo.git
+[submodule "packages/quiz-focus.mongodb"]
+	path = packages/quiz-focus.mongodb
+	url = https://github.com/specfocus/quiz-focus.mongodb.git
+[submodule "packages/keen-focus"]
+	path = packages/keen-focus
+	url = https://github.com/specfocus/keen-focus.git
+[submodule "packages/mongo"]
+	path = packages/mongo
+	url = https://github.com/mongodb/mongo.git
